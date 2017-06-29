@@ -1,0 +1,11 @@
+{
+  "name": "img-base64",
+  "version": "1.0.0",
+  "main": "img-base64.js",
+  "repository": "https://github.com/builden/img-base64.git",
+  "author": "builden <billdeng@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^3.0.1"
+  }
+}
